@@ -2,4 +2,4 @@ Working on improving my biostatistics knowledge  using the R programming languag
 
 A project long overdue. 
 
-Will be up and running after Ramadan and Zad. 
+Will be up and running after Ramadan and Zad in sha Allah
