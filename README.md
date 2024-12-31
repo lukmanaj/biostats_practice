@@ -1,2 +1,2 @@
-## Looking the Introductory Biostatistics Book - R Programming
+## Looking the Introductory Biostatistics Book - Using R Programming
 
